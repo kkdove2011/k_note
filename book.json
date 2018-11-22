@@ -1,9 +1,9 @@
 {
     "root": "./",
-    "title": "KK的笔记",
-    "head_title": "KK的笔记",
-    "head_description": "KK的笔记",
-    "head_keywords": "KK,笔记",
+    "title": "K的笔记",
+    "head_title": "K的笔记",
+    "head_description": "K的笔记",
+    "head_keywords": "K,笔记",
     "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
