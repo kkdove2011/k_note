@@ -22,8 +22,8 @@
   margin-top: 0;
 }
 .list-group .list-group-item.active {
-  color: #35b558;
-  border-left: 4px solid #35b558 !important;
+  color: #6dbdff;
+  border-left: 4px solid #6dbdff !important;
 }
 .gb-markdown table {
   table-layout: fixed;
